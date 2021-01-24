@@ -3,4 +3,6 @@
 Bir sürü dilden basit botlar sizinle, tek projede
 <br />
 # Başlarken
-
+**Dil Seçimi**<br />
+Size en uygun olan dili belirleyin.<br />
+Bulunan diller:<br />
