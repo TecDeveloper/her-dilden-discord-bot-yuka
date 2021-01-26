@@ -1,12 +1,6 @@
 import discord
-import json 
 
-client = discord.Client()
-reader = open('seçenekler.json',) 
-
-data = json.load(reader) 
-
-reader.close();
+client = discord.Client();
 
 @client.event
 async def on_ready():
