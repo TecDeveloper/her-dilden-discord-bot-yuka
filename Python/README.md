@@ -6,7 +6,7 @@ Python dilinde yazılmış bir bot altyapısına hoşgeldin! <br />
 Tek yapmanız gereken: **Seçim Yapmak** <br />
 # Adımlar
 1- `Main` dosyasından tercih ettiğiniz ana dosya şeklini seçin <br />
-2- `Komutlar` dosyasında sevdiğiniz kodları maine yapıştırın <br />
+2- `Komutlar` dosyasından sevdiğiniz kodları maine yapıştırın <br />
 3- Gerekli yerleri (token vb.) seçtiğiniz main osyasında yazdığı gibi doldurun <br />
 **Hazırsınız!**
 # Hosting
