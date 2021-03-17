@@ -11,3 +11,5 @@ Tek yapmanız gereken: **Seçim Yapmak** <br />
 **Hazırsınız!**
 # Hosting
 Önerilen **Python** hosting firması: <a href="https://repl.it" class="clickableLink">Repl.it</a> <br />
+# Gerekli Dosyalar
+<pre>pip install discord.py</pre> yeterli olucaktır
