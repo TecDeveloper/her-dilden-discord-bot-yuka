@@ -5,9 +5,7 @@ Python dilinde yazılmış bir bot altyapısına hoşgeldin! <br />
 □■■■■ <br />
 Tek yapmanız gereken: **Doldurmak** <br />
 # Adımlar
-1- `Main` dosyasından tercih ettiğiniz ana dosya şeklini seçin <br />
-2- `Komutlar` dosyasından sevdiğiniz kodları maine yapıştırın <br />
-3- Gerekli yerleri (token vb.) seçtiğiniz main dosyasında yazdığı gibi doldurun <br />
+1- Gerekli yerleri (token vb.) main dosyasında yazdığı gibi doldurun <br />
 **Hazırsınız!**
 # Hosting
 Önerilen **Python** hosting firması: <a href="https://repl.it" class="clickableLink">Repl.it</a> <br />
