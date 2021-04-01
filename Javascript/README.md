@@ -9,3 +9,6 @@ Tek yapmanız gereken: **Doldurmak** <br />
 **Hazırsınız!**
 # Hosting
 Önerilen **Javascript** hosting firması: <a href="https://glitch.com" class="clickableLink">Glitch</a> , <a href="https://repl.it" class="clickableLink">Repl.it</a> <br />
+
+# Gerekli Dosyalar
+```npm i discord.js```
