@@ -3,7 +3,7 @@ Python dilinde yazılmış bir bot altyapısına hoşgeldin! <br />
 **Not: Kendin ayarlaman gereken yerler olacak, ama aşağıda açıklayacağım.** <br />
 # Hazırlılık Oranı
 □■■■■ <br />
-Tek yapmanız gereken: **Seçim Yapmak** <br />
+Tek yapmanız gereken: **Doldurmak** <br />
 # Adımlar
 1- `Main` dosyasından tercih ettiğiniz ana dosya şeklini seçin <br />
 2- `Komutlar` dosyasından sevdiğiniz kodları maine yapıştırın <br />
