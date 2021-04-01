@@ -7,3 +7,4 @@ Bir sürü dilden basit botlar sizinle, tek projede
 Size en uygun olan dili belirleyin.<br />
 Bulunan diller:<br />
 `Python`<br />
+`Javascript`<br />
